@@ -1,0 +1,24 @@
+.a {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 20px;
+  gap: 10px;
+
+  position: absolute;
+  left: 84.79%;
+  right: 7.78%;
+  top: 20.56%;
+  bottom: 30.53%;
+
+  /* Success/Default */
+
+  background: #2dca73;
+  border-radius: 6px;
+}
+a:link {
+  text-decoration: none;
+  text-decoration-color: #ffffff;
+}

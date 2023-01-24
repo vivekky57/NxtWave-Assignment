@@ -1,0 +1,24 @@
+.header {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 92.97%;
+  background: #ffffff;
+}
+.main-company-logo {
+  position: absolute;
+  left: 3.33%;
+  right: 90.97%;
+  top: 1.56%;
+  bottom: 94.53%;
+}
+.main-login-logo {
+  position: absolute;
+  left: 95%;
+  right: 0%;
+  top: 0%;
+  bottom: -50%;
+
+  /* background: url("../../assets/image.png"); */
+}

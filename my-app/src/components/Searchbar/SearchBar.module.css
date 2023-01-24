@@ -1,0 +1,22 @@
+.search {
+  /* field */
+
+  box-sizing: border-box;
+
+  position: absolute;
+  left: 10.35%;
+  right: 44.65%;
+  top: 18.55%;
+  bottom: 77.54%;
+
+  background: #ffffff;
+  /* Light Grey/100 */
+
+  border: 1px solid #d7dfe9;
+  border-radius: 3px;
+  height: 40px;
+  width: 648px;
+  left: 149px;
+  top: 190px;
+  border-radius: 3px;
+}
